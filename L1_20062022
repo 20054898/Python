@@ -1,4 +1,5 @@
 interpretor langugage - Used for scripting
 Need to not declare data type  (i.e. Flexible dynamic typing)
 no compilation step
-Not on Platform dependent dw
+Not on Platform dependent 
+Not req. Semi-colon
