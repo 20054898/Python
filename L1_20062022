@@ -11,3 +11,6 @@ Network & Intensive application
 Web Developments
 Prototyping
 Appl. Scripting
+Python is install & Path is proper then check = python -V
+to chk path 
+echo %path%
