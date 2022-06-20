@@ -17,3 +17,10 @@ echo %path%
 We can check, where Python install by
 dir /s python
 /s - sub dictonary
+help()
+keywords
+symbols
+modules
+OR
+help('keyword')
+exist() - exist from cmd prompt
