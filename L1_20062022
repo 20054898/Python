@@ -30,3 +30,11 @@ help(math.fsum)
 Google chrome
 We can used many python editor
 We can used idle (Also visual studio)
+Python 1st program
+print("Chk name")
+nm = input ("What is ur name")
+print("My name", nm)
+save as First.py
+Open cmd 
+python First.py
+
