@@ -37,4 +37,5 @@ print("My name", nm)
 save as First.py
 Open cmd 
 python First.py
-
+We can set path temp. path
+Also if we didnt set path, we can get error cmd didnt find
