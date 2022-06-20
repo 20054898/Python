@@ -14,3 +14,5 @@ Appl. Scripting
 Python is install & Path is proper then check = python -V
 to chk path 
 echo %path%
+We can check, where Python install by
+dir /s python
