@@ -4,3 +4,5 @@ var1=200
 var2=300
 id(var1)
 30229912
+type (var1)
+< class int>
