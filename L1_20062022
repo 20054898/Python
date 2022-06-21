@@ -39,3 +39,9 @@ Open cmd
 python First.py
 We can set path temp. path
 Also if we didnt set path, we can get error cmd didnt find
+]]
+dir()
+We can see all modules (e.g. Builtin)
+there r some fuctionallity didnt avaialable in Python, so we can import (e.g. math)
+then we can used modulename.fuction()
+
