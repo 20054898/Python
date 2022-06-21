@@ -20,5 +20,15 @@ Same memory locations as same data
 If we need to chk value of var1
 var1
 200
+]]
+Need to chk multi line comment
+a='''
+...linux
+...Windows
+'''
+a
+'\nlinux\windows\n'
+type(a)
+< class str>
 
 
