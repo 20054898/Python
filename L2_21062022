@@ -1,11 +1,13 @@
 In cmd propmpt, type python, so we can start programming in Python
-If
+]]] If
+
 var1=200
 var2=300
 id(var1)
 30229912
 type (var1)
 < class int>
+]]]
 If both having same data
 a=200
 b=200
@@ -13,5 +15,10 @@ id(a)
 30229912
 id(b)
 30229912
-Same memory locations
+Same memory locations as same data
+]]]
+If we need to chk value of var1
+var1
+200
+
 
