@@ -6,3 +6,12 @@ id(var1)
 30229912
 type (var1)
 < class int>
+If both having same data
+a=200
+b=200
+id(a)
+30229912
+id(b)
+30229912
+Same memory locations
+
