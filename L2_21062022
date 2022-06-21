@@ -1,4 +1,5 @@
-IF
+In cmd propmpt, type python, so we can start programming in Python
+If
 var1=200
 var2=300
 id(var1)
